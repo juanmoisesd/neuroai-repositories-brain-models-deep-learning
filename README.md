@@ -50,3 +50,12 @@ De la Serna Tuya, J. M. (2026). *Repositorios NeuroIA: Redes Neuronales Biológi
 
 ## License
 CC BY 4.0 — You may share and adapt with appropriate credit.
+
+## How to Cite
+
+If you use this repository in your research, please cite:
+
+> de la Serna, J. M. (2026). *Neuroai Repositories Brain Models Deep Learning*. Universidad Internacional de La Rioja (UNIR).
+> https://github.com/juanmoisesd/neuroai-repositories-brain-models-deep-learning 
+
+See `CITATION.cff` for formatted references.
